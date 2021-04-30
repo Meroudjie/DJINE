@@ -1,0 +1,17 @@
+body
+{
+    background-image:url(/Saved_Pictures/beth.png) ;
+   /*background-image: url(/Saved_Pictures/noel2.jpg);*/
+   
+    background-repeat: no-repeat;
+}
+body div
+{
+    margin-left: 450px;
+    margin-top: 200px; 
+}
+body div p button a 
+{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,84 @@
+
+body
+{
+    background-color: rgba(255, 255, 255, 0.705);
+}
+
+#Believe ul
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(255, 208, 1, 0.397);
+    padding: 8px;
+}
+
+.salon{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 30px;
+   
+
+
+}
+.margin{
+    margin-right: 10px ;
+}
+nav ul{
+    list-style-type: none;
+}
+
+a
+{
+    text-decoration:none;
+    color:red;
+    /*background-color: rgba(255, 208, 1, 0.397);
+    padding: 8px;*/
+}
+.manger
+{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 30px;
+    
+
+}
+.cuisine
+{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 30px;
+    
+
+}
+.chambre
+{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 30px;
+   
+}
+.produit
+{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 30px;
+   /* background-color: rgb(228, 172, 99);*/
+
+}
+
+li a:hover {
+    background-color:orange;
+  }
+
+  .lui:hover
+  {
+      background-color:rgb(255, 160, 125);
+  }
+
+  .salledebain
+{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 30px;
+   
+}

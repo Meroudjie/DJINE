@@ -1,0 +1,58 @@
+h1
+{
+    text-align: center;
+    background-color:wheat;
+    color:black;
+    
+}
+.couleurPM
+{
+    background-color: whitesmoke;
+    padding: 8px;
+    color: black;
+    text-align: center;
+
+}
+
+.display1
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(19rem,1fr));
+    grid-gap: 2.1rem;
+   
+}
+body
+{
+    background-color:whitesmoke;
+}
+.cbody
+{
+    background-color:white;
+}
+.qwe
+{
+    padding: 0px;
+    margin: 0px;
+    color: red;
+}
+h2
+{
+    background-color: wheat;
+    color: red;
+    text-align: center;
+}
+/*.flotter
+{
+    float: right;
+    margin-right: 50%;
+}*/
+/*.flot3
+{
+    float: right;
+    margin-right: 50%;
+}
+.flot1
+{
+    float: right;
+    margin-right: 50%;
+}*/
